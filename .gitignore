@@ -6,3 +6,4 @@ dist/
 .vscode/
 artifacts/data/fct_user_activity.csv
 artifacts/data/pulse_warehouse.db
+.env
